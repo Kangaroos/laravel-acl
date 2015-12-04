@@ -1,5 +1,5 @@
 {
-    "name": "kodeine/laravel-acl",
+    "name": "kangaroos/laravel-acl",
     "description": "Light-weight role-based permissions for Laravel 5 built in Auth system.",
     "license": "MIT",
     "keywords": [
@@ -13,8 +13,8 @@
     ],
     "authors": [
         {
-            "name": "Ahsen M.",
-            "homepage": "https://github.com/kodeine",
+            "name": "xyezir",
+            "homepage": "https://github.com/Kangaroos",
             "role": "Developer"
         }
     ],
